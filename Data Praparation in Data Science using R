@@ -1,0 +1,6 @@
+NA dan default type (tipe default)
+Untuk menggunakan NA adalah sama dengan nilai konstanta lain, cukup mengetikkan NA.
+Sebagai contoh, jika kita ketikkan NA di console maka akan muncul hasil berikut:
+#Ketik nilai NA
+NA
+[1] "logical"
